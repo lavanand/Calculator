@@ -1,4 +1,4 @@
-make sure your calculator coding should include the following programming concepts
+make sure your calculator coding should include the following programming concepts (1 hrs 30 min)
 =>Variables
 =>Datatypes
 =>Operators
